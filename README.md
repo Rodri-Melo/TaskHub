@@ -13,4 +13,4 @@ React, React router Dom, React icons, React hooks, Yup, LocalStorage
 
 # Execução
 
-O projeto está disponivel no link: em construção
+O projeto está disponivel no link: https://task-hub-five.vercel.app/
